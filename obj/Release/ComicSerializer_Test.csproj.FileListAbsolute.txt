@@ -1,0 +1,13 @@
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\bin\Release\ComicSerializer_Test.exe.config
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\bin\Release\ComicSerializer_Test.exe
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\bin\Release\ComicSerializer_Test.pdb
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\bin\Release\ComicVineLibrary.dll
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\bin\Release\Newtonsoft.Json.dll
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\bin\Release\ComicVineLibrary.pdb
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\bin\Release\Newtonsoft.Json.xml
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\obj\Release\ComicSerializer_Test.csprojResolveAssemblyReference.cache
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\obj\Release\ComicSerializer_Test.Form1.resources
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\obj\Release\ComicSerializer_Test.Properties.Resources.resources
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\obj\Release\ComicSerializer_Test.csproj.GenerateResource.Cache
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\obj\Release\ComicSerializer_Test.exe
+D:\Projects\Test\ComicSerializer_Test\ComicSerializer_Test\obj\Release\ComicSerializer_Test.pdb
